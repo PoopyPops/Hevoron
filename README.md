@@ -7,6 +7,7 @@ here's a version where the whole 300x300 print volume is used
 ![image](https://user-images.githubusercontent.com/100235446/160910879-331a7437-12c2-47b1-a1b0-d31037bb7ef2.png)
 BOM (for new build):
   Frame (for 300x300 print area):
+  
   3030      485mm x 7
   
   3030      520mm x 8
