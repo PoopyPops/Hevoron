@@ -8,11 +8,17 @@ here's a version where the whole 300x300 print volume is used
 BOM (for new build):
   Frame (for 300x300 print area):
   3030      485mm x 7
+  
   3030      520mm x 8
+  
   3030      700mm x 4
+  
   2020      260mm x 2
+  
   2020      515mm x 2
+  
   2020      460mm x 1
 
   MGN12H    370mm x 3
+  
   12mm rods 500mm x 4
