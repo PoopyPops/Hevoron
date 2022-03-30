@@ -1,3 +1,3 @@
 # Hevoron
 I had a Hypercube. And then I didn't want a Hypercube anymore so now it's a Voron inspired project. Basically I'm just copying Voron parts onto a 3030 frame.
-![image](https://user-images.githubusercontent.com/100235446/155866153-cc586a8e-01d9-4f75-a0bb-ce3335c19b30.png)
+![image](https://user-images.githubusercontent.com/100235446/160741718-ce6dace8-eb92-4ca3-af27-937ac0e5913a.png)
