@@ -1,3 +1,6 @@
+
+![Untitled9](https://user-images.githubusercontent.com/100235446/170140571-50386e61-03b3-4cf9-bf8c-f793c27ed89d.png)
+
 I also call this the Hyperjank
 
 I had a Hypercube. And then I didn't want a Hypercube anymore so I made the XY gantry compatible with Voron design’s Afterburner and potentially Stealthburner system.
